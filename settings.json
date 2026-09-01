@@ -1,5 +1,5 @@
 {
-  "name": "AFK Bot",
+  "name": "KRYZENHUNTER afk Bot",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "port": 12462,
     "version": "",
     "try-creative": false
   },
